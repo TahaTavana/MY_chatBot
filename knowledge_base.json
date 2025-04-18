@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hi , How are you today?"
+    },
+    {
+      "question": "Whats your favorite color?",
+      "answer": "red"
+    },
+    {
+      "question": "bye",
+      "answer": "oky good bye"
+    },
+    {
+      "question": "thankyou",
+      "answer": "You're welcome"
+    },
+    {
+      "question": "thank",
+      "answer": "You're welcome"
+    },
+    {
+      "question": "color",
+      "answer": "red\ngreen\nblue\nyellow\nwhite\ngray\nlightblue\nlightgreen\nwe have very color!!"
+    },
+    {
+      "question": "favorite color?",
+      "answer": "red"
+    },
+    {
+      "question": "red",
+      "answer": "its color.and its my favorite color"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "I am your AI assistant."
+    },
+    {
+      "question": "How are you?",
+      "answer": "Im Great!! What about you ?"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, help you learn, and chat with you!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was created by Mohammed taha tavana"
+    },
+    {
+      "question": "What is the time now?",
+      "answer": "I can't check the current time, but you can look at your device clock!"
+    },
+    {
+      "question": "Can you tell me a joke?",
+      "answer": "Why don't programmers like nature? It has too many bugs."
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a powerful and easy-to-learn programming language."
+    },
+    {
+      "question": "How do I learn coding?",
+      "answer": "Start with basics like Python or JavaScript, practice a lot, and build small projects!"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I'm timeless \u00e2\u20ac\u201d I exist in code!"
+    },
+    {
+      "question": " What is 7 times 8?",
+      "answer": "7 times 8 is 56."
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer": "The square root of 64 is 8."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "Which continent is Brazil in?",
+      "answer": "Brazil is in South America."
+    },
+    {
+      "question": "What is H2O? ",
+      "answer": "H2O is the chemical formula for water."
+    },
+    {
+      "question": "How many planets are in the solar system?",
+      "answer": "There are 8 planets in the solar system."
+    },
+    {
+      "question": " What is an operating system?",
+      "answer": "An operating system manages a computers hardware and software."
+    },
+    {
+      "question": "What does CPU stand for?",
+      "answer": "CPU stands for Central Processing Unit."
+    },
+    {
+      "question": "Who is the prophet of Islam?",
+      "answer": "The prophet of Islam is Muhammad (peace be upon him)."
+    },
+    {
+      "question": "What is the holy book of Christianity?",
+      "answer": "The holy book of Christianity is the Bible."
+    },
+    {
+      "question": "Can you tell me a joke?",
+      "answer": "Sure! Why did the computer go to therapy? Because it had too many bytes!"
+    },
+    {
+      "question": "Are you smart?",
+      "answer": "Only as smart as my training data\u00e2\u20ac\u201dand your questions!"
+    },
+    {
+      "question": "whats your email",
+      "answer": "tavanam814@gmail.com"
+    }
+  ]
+}
