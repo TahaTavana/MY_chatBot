@@ -13,8 +13,8 @@ AskWise is a simple yet intelligent Python-based chatbot that uses `difflib` to 
 - 💾 Stores data in a JSON file
 - ⚡ Lightweight and easy to run (no external libraries needed)
 
----
 
+---
 ## 🚀 How to Run
 
 ### Clone the repository
@@ -23,6 +23,8 @@ AskWise is a simple yet intelligent Python-based chatbot that uses `difflib` to 
 git clone https://github.com/TahaTavana/MY_chatBot.git
 cd MY_chatBot\
 python main.py
+```
+---
 ## About ME:
 ### Im mohammad taha tavana. Im from Iran.I make a very program with python,react,javascripts.
 ### My email addres : tavanam814@gmail.com
