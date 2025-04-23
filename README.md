@@ -25,6 +25,10 @@ cd MY_chatBot\
 python main.py
 ```
 ---
-## About ME:
-### Im mohammad taha tavana. Im from Iran.I make a very program with python,react,javascripts.
-### My email addres : tavanam814@gmail.com
+## About Me
+
+Hi! I'm a bilingual developer fluent in Persian and English.  
+I'm experienced in **JavaScript**, **React**, and **Python**, and I love turning ideas into clean, functional code.  
+Whether it's building interactive UIs or writing efficient backend scripts, I'm always up for a challenge.
+
+📫 Reach me at: [tavanam814@gmail.com]
